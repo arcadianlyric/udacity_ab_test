@@ -4,4 +4,4 @@
 
 [Project instruction](https://github.com/arcadianlyric/udacity_ab_test/blob/master/AB_test_design_instruction.pdf)
 
-[A/B Test desing, analysis and report](https://github.com/arcadianlyric/udacity_ab_test/blob/master/AB_test_design_report.pdf)
+[A/B Test design, analysis and report](https://github.com/arcadianlyric/udacity_ab_test/blob/master/AB_test_design_report.pdf)
